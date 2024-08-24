@@ -3,7 +3,7 @@
 
 
 #### Biography
-I am an incoming 3nd-year transfer Undergraduate Student pursuing a bachelor's Degree in computer science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now, I do the research under [Ce Zheng](https://zczcwh.github.io/). I have experience in Computer Vision, mainly focus on the Human Pose Estimation and Human Mesh Recovery. Currently, I am continuously studying digital human model likes SMPL, SKEL and so on.
+I am an incoming 2nd-year transfer Undergraduate Student pursuing a bachelor's Degree in computer science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now, I do the research under [Ce Zheng](https://zczcwh.github.io/). I have experience in Computer Vision, mainly focus on the Human Pose Estimation and Human Mesh Recovery. Currently, I am continuously studying digital human model likes SMPL, SKEL and so on.
 
 
 #### Research Interests
