@@ -1,17 +1,17 @@
 #### News
-<strong style="color:red;"><strong>I’m actively applying for a research intern position in 2025 Summer and a long-time member position in the Lab from Rutgers Faculty(Any department). </strong></strong> If you need a student who is familiar with <strong style="color:red;"><strong>Computer Vision</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
+<strong style="color:red;"><strong>I’m actively applying for a research intern position in 2025 Summer and a long-time member position in the Lab from Rutgers Faculty. </strong></strong> If you need a student who is familiar with <strong style="color:red;"><strong>Computer Vision</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
 
 
 #### Biography
-I am an incoming 2nd-year transfer Undergraduate Student pursuing a bachelor's Degree in computer science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now, I do the research under [Ce Zheng](https://zczcwh.github.io/). I have experience in Computer Vision, mainly focus on the Human Pose Estimation and Human Mesh Recovery. Currently, I am continuously studying digital human model likes SMPL, SKEL and so on.
+I am an incoming 2nd-year transfer Undergraduate Student pursuing a bachelor's Degree in computer science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now, I do the research under [Ce Zheng](https://zczcwh.github.io/). I have experience in Deep Learning, mainly focus on the Computer Vision. Currently, I am continuously studying Domain Adaptation and Bayesian Deep Learning.
 
-
+<!-- #### Skills
 #### Research Interests
 My current passion revolves around building a more realistic and kinematic digital human model under much unlabeled and high-quality data, this includes: 
 1. **Human Pose Estimation**：A process of detecting human body positions and key points within an image or video.
 2. **Digital Human**：A computer-generated representation of a human being, capable of simulating realistic human appearance, movements, and interactions within digital environments.
 3. **Data-Centric AI**：Emphasizes the importance of high-quality, diverse, and well-managed data to train robust AI models that can make reliable inferences and decisions.
-
+-->
 
 #### Contact<p id="contact-info"></p>
 ✉️ [rw761 [at] scarletmail.rutgers.edu](mailto:rw761@scarletmail.rutgers.edu)
