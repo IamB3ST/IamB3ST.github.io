@@ -3,7 +3,9 @@
 
 
 #### Biography
-I am an incoming 2nd-year transfer Undergraduate Student pursuing a bachelor's Degree in computer science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now, I do the research under [Ce Zheng](https://zczcwh.github.io/). I have experience in Deep Learning, mainly focus on the Computer Vision. Currently, I am continuously studying Domain Adaptation and Bayesian Deep Learning.
+I am an incoming 2nd-year transfer Undergraduate Student pursuing a bachelor's Degree in computer science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now, I do the research under [Ce Zheng](https://zczcwh.github.io/). I have experience in Deep Learning, mainly focus on the Computer Vision.
+
+In 24fall semester, I register the course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a group, please don't hesitate to reach out to me via email.
 
 <!-- #### Skills
 #### Research Interests
