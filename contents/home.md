@@ -1,5 +1,5 @@
 #### News
-<strong style="color:red;"><strong>I’m actively applying for a research intern position in 2025 Summer and a long-time member position in the Lab from Rutgers Faculty. </strong></strong> If you need a student who is familiar with <strong style="color:red;"><strong>Computer Vision</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
+<strong style="color:red;"><strong>I’m actively applying for a research intern position in 2025 Summer and a long-time member position in the Lab from Rutgers Faculty. </strong></strong> If you need a student who is familiar with <strong style="color:red;"><strong>Deep Learning</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
 
 
 #### Biography
