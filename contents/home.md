@@ -3,17 +3,14 @@
 
 
 #### Biography
-I am an incoming 2nd-year transfer Undergraduate Student pursuing a bachelor's Degree in computer science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now, I do the research under [Ce Zheng](https://zczcwh.github.io/). I have experience in Deep Learning, mainly focus on the Computer Vision.
+I am a 2nd-year Undergraduate Student pursuing a bachelor's Degree in computer science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now, I do the research under [Ce Zheng](https://zczcwh.github.io/). I have experience in Deep Learning, mainly focus on the Computer Vision.
 
-In 24fall semester, I register the course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a group, please don't hesitate to reach out to me via email.
+In 24fall semester, I register the course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a pair, please don't hesitate to reach out to me via email.
 
-<!-- #### Skills
+
 #### Research Interests
-My current passion revolves around building a more realistic and kinematic digital human model under much unlabeled and high-quality data, this includes: 
-1. **Human Pose Estimation**：A process of detecting human body positions and key points within an image or video.
-2. **Digital Human**：A computer-generated representation of a human being, capable of simulating realistic human appearance, movements, and interactions within digital environments.
-3. **Data-Centric AI**：Emphasizes the importance of high-quality, diverse, and well-managed data to train robust AI models that can make reliable inferences and decisions.
--->
+My current passion revolves machine learning, deep learning and their theory/application.
+
 
 #### Contact<p id="contact-info"></p>
 ✉️ [rw761 [at] scarletmail.rutgers.edu](mailto:rw761@scarletmail.rutgers.edu)
