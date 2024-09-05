@@ -9,7 +9,7 @@ In 24fall semester, I register the course 01:198:440 "Introduction to Artificial
 
 
 #### Research Interests
-My current passion revolves machine learning, deep learning and their theory / application.
+My current passion revolves machine learning, deep learning and their theory or application.
 
 
 #### Contact<p id="contact-info"></p>
