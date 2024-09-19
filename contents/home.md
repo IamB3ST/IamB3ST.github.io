@@ -3,13 +3,13 @@
 
 
 #### Biography
-I am currently a Sophomore Student pursuing a bachelor's Degree in Computer Science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. I have experience in Deep Learning, mainly focus on the Computer Vision.
+I am currently a Sophomore Student pursuing a bachelor's Degree in Computer Science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick.
 
-In 24fall semester, I register the senior course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a pair, please don't hesitate to reach out to me via email.
+In 24fall semester, I register the senior course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a pair, please don't hesitate to reach out to me via email. Click [here](https://github.com/IamB3ST/MyCourses) to view my course.
 
 
 #### Research Interests
-My current passion revolves machine learning, deep learning and their theory or application.
+My current passion revolves AI4Science(Protein), LLM, Graph learning, GNNs.
 
 
 #### Contact<p id="contact-info"></p>
