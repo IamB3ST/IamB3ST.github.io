@@ -3,9 +3,9 @@
 
 
 #### Biography
-I am currently a Sophomore Student pursuing a bachelor's Degree in Computer Science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick.
+I am currently a Sophomore Student pursuing a bachelor's Degree in Computer Science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. More details could be viewed at my [GitHub](https://github.com/IamB3ST).
 
-In 24fall semester, I register the senior course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a pair, please don't hesitate to reach out to me via email. Click [here](https://github.com/IamB3ST/MyCourses) to view my course.
+In 24fall semester, I register the senior course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a pair, please don't hesitate to reach out to me via email. Click [here](https://github.com/IamB3ST/MyCourses) to view my courses.
 
 
 #### Research Interests
