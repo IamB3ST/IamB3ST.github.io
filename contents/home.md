@@ -9,7 +9,7 @@ In 24fall semester, I register the senior course 01:198:440 "Introduction to Art
 
 
 #### Research Interests
-My current passion revolves LLM, Graph learning, Recommender System, GNNs.
+My current passion revolves LLMs and its application，Graph learning.
 
 
 #### Contact<p id="contact-info"></p>
