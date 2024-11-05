@@ -1,15 +1,15 @@
 #### News
-<strong style="color:red;"><strong>I’m actively applying for a research intern position in 2025 Summer and a long-time member position in the Lab from Rutgers Faculty. </strong></strong> If you need a student who is familiar with <strong style="color:red;"><strong>Deep Learning</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
+<strong style="color:red;"><strong>I’m actively applying for a research intern position in 2025 Summer about Trustworthy MLLMs/LLMs. </strong></strong> If you need a student who is familiar with <strong style="color:red;"><strong>Trustworthy AI</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
 
 
 #### Biography
-I am currently a Sophomore Student pursuing a bachelor's Degree in Computer Science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. More details could be viewed at my [GitHub](https://github.com/IamB3ST).
+I am currently a Sophomore Student pursuing a bachelor's Degree in Computer Science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now I am doing research about Trustworhy MLLMs, supervised by [Dr.Tang](https://www.ruixiangtang.net/) .More details about me could be viewed at my [GitHub](https://github.com/IamB3ST).
 
 In 24fall semester, I register the senior course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a pair, please don't hesitate to reach out to me via email. Click [here](https://github.com/IamB3ST/MyCourses) to view my courses.
 
 
 #### Research Interests
-My current passion revolves LLMs and its application，Graph learning.
+My current passion revolves LLMs/MLLMs/Trustworthy AI.
 
 
 #### Contact<p id="contact-info"></p>
