@@ -5,22 +5,22 @@
 #### Biography
 I am currently a Sophomore Student pursuing a bachelor's Degree in Computer Science at School of Liberal Arts and Sciences, Rutgers University-New Brunswick. Now I am doing research about Trustworhy MLLMs, supervised by [Dr.Tang](https://www.ruixiangtang.net/) .More details about me could be viewed at my [GitHub](https://github.com/IamB3ST).
 
-In 24fall semester, I register the senior course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a pair, please don't hesitate to reach out to me via email. Click [here](https://github.com/IamB3ST/MyCourses) to view my courses.
+In 24fall semester, I register the senior course 01:198:440 "Introduction to Artificial Intelligence" which is instructed by Xingtong Wang. If you want to study with me to make a pair, please don't hesitate to reach out to me via email.
 
 
 #### Research Interests
-My current passion revolves LLMs/MLLMs/Trustworthy AI.
+My current passion revolves LLMs/MLLMs/Trustworthy AI and their applications in healthcare.
 
 
 #### Contact<p id="contact-info"></p>
 ✉️ [rw761 [at] scarletmail.rutgers.edu](mailto:rw761@scarletmail.rutgers.edu)
 
 
-<!-- #### Skills
-* **Natural Language Processing:** Proficient in using the PyTorch framework, with the ability to reproduce mainstream large-scale models in the industry (such as Baichuan, llama2, Qwen). Proficient in using quantization and inference tools such as QLoRA, vLLM, and skilled in distributed parallel training (using training tools such as BMTrain, DeepSpeed).
-
-* **High Performance Computing:** Proficient in CUDA Programming, familiar with C++, knowledgeable in compiler optimization principles, and understanding of MPI, OpenMP, and SIMD acceleration optimization technologies.
-
-* **Computer System Architecture:** Familiar with GPU architecture and RISC-V instruction set, and has participated in the [One Life, One Core](https://ysyx.oscc.cc/) project.
-
-* **Other:** Understanding of serverless computing architecture, experience in applying federated learning in network security, involvement in both front-end and back-end development, familiarity with Linux operating system and operation and maintenance ( maintained a large server cluster with 21 nodes in the GOOD LAB). Additionally, has researched computer vision and reinforcement learning in the field of artificial intelligence. -->
+#### Skills
+- Proficient in fundamental architectures of LLMs (Large Language Models) and MLLMs (Multimodal Large Language Models).
+- Experienced in using interpretability tools, such as attention map to analyze model behavior.
+- Skilled in tracking data flow within AI models, understanding how input data transforms at each stage of the pipeline.
+- Hands-on experience with frameworks like PyTorch and Hugging Face for model development and fine-tuning.
+- Strong foundation in data preprocessing, multimodal dataset integration, and evaluation for AI applications.
+- Programming skills in Python, including libraries such as NumPy, pandas, and scikit-learn for data analysis and ML tasks.
+- Effective collaboration in academic and research environments, with experience in report writing and presentation.
