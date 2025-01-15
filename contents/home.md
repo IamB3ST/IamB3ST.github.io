@@ -1,5 +1,5 @@
 #### News
-<strong style="color:red;"><strong>I’m actively applying for a research intern position in 2025 Summer about Trustworthy MLLMs/LLMs. </strong></strong> If you need a student who is familiar with <strong style="color:red;"><strong>Trustworthy AI</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
+<strong style="color:red;"><strong>I’m actively applying for a research intern position in 2025 Summer about Computer Vision or Vision Language Models. </strong></strong> If you need a student who is familiar with <strong style="color:red;"><strong>Vision Language Models</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
 
 
 #### Biography
